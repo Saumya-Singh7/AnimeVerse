@@ -27,3 +27,15 @@ AnimeVerse/
 │── assets/
 │   └── images/
 │── README.md
+# Getting Started
+Clone the repository:
+
+bash
+git clone https://github.com/your-username/AnimeVerse.git
+Open index.html in your browser.
+
+Start exploring anime characters!
+
+🤝# Contributing
+Contributions are welcome! Please fork the repo, create a branch, and submit a pull request.
+
