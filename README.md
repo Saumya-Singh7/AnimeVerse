@@ -36,6 +36,6 @@ Open index.html in your browser.
 
 Start exploring anime characters!
 
-🤝# Contributing
+# Contributing
 Contributions are welcome! Please fork the repo, create a branch, and submit a pull request.
 
