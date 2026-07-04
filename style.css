@@ -1,6 +1,4 @@
-
-  
-   body {
+ body {
       
       justify-content: center;     
       background-image: url("https://wallpapercave.com/wp/wp10046343.jpg");
@@ -19,6 +17,11 @@
       border-color: #ffcc00;
       box-shadow: 0 0 10px #ffcc00;
       border-radius: 25px;
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      border: 2px solid #ff6f61;
+      
 
     }
 

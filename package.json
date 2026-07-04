@@ -1,0 +1,26 @@
+{
+  "name": "animeverse",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000n\u0000i\u0000m\u0000e\u0000V\u0000e\u0000r\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saumya-Singh7/AnimeVerse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Saumya-Singh7/AnimeVerse/issues"
+  },
+  "homepage": "https://github.com/Saumya-Singh7/AnimeVerse#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.5.2",
+    "postcss": "^8.5.16",
+    "tailwindcss": "^3.4.17"
+  }
+}
